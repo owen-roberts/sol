@@ -2,7 +2,7 @@ const gulp = require('gulp'),
     browserSync = require('browser-sync')
 
 const paths = {
-    output: './build',
+    output: './docs',
     src: {
         html: './src/html',
         css: './src/css',
