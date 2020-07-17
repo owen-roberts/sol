@@ -46,7 +46,7 @@ const bodies = [
     {
         name: 'Jupiter',
         color: '#D39C7E',
-        distance: 350,
+        distance: 325,
         size: 10,
         orbitalPeriod: 4332.59,
         x: 0,
@@ -56,7 +56,7 @@ const bodies = [
     {
         name: 'Saturn',
         color: '#C5AB6E',
-        distance: 400,
+        distance: 375,
         size: 9,
         orbitalPeriod: 10759.22,
         x: 0,
@@ -66,7 +66,7 @@ const bodies = [
     {
         name: 'Uranus',
         color: '#93B8BE',
-        distance: 450,
+        distance: 425,
         size: 8,
         orbitalPeriod: 30688.5,
         x: 0,
@@ -76,7 +76,7 @@ const bodies = [
     {
         name: 'Neptune',
         color: '#6081FF',
-        distance: 500,
+        distance: 475,
         size: 8,
         orbitalPeriod: 60182,
         x: 0,
